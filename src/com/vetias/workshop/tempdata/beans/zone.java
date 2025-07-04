@@ -1,5 +1,1 @@
-package vetias.workshop.tempdata.beans;
-
-public class zone {
-    
-}
+package vetias.workshop.tempdata.beans
