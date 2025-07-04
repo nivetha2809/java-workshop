@@ -1,4 +1,4 @@
-package vetias.workshop.tempdata.beans;
+ package vetias.workshop.tempdata.beans;
 
 public class floor {
     package location;
