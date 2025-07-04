@@ -1,5 +1,8 @@
 public  class TemperatureSensor implements Sensor{
         private float temperature;
+        public static void main(String[] args) {
+            
+        }
 
         public TemperatureSensor(float atemperature)
         {
