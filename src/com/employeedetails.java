@@ -14,7 +14,7 @@ public class employeedetails {
         employees[4][1] = "Suresh";
         System.out.println("Employee Details:");
         for (int i = 0; i < employees.length; i++) {
-            System.out.println("Roll No: " + employees[i][0] + ", Name: " + employees[i][1]);
+            System.out.println("salary: " + employees[i][0] + ", Name: " + employees[i][1]);
         }
 
     }
