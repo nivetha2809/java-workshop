@@ -1,4 +1,4 @@
-package vetias.workshop.tempdata;
+package vetias.workshop.tempdata.beans;
 
 public class Acadamicbuilding {
     public class AcademicBuilding extends Building{
