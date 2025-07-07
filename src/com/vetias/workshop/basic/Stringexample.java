@@ -1,7 +1,7 @@
 public class StringExample {
     public static void main(String[] args) {
-        String FirstName = "Sree";
-        String LastName = "Krishnan";
+        String FirstName = "Nivetha";
+        String LastName = "jayagansan";
         String FinalName = FirstName.concat(LastName);
         System.out.println("Concatenated String: " + FinalName);
         String UpperCase = FinalName.toUpperCase();
