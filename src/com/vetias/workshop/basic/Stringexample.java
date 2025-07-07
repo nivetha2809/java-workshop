@@ -12,9 +12,7 @@ public class Stringexample {
         String sentence = "this program shows how can we split a string into multiple string";
         String words[] = sentence.split("");
         System.out.println(words.length);
-
-        
-        
+        System.out.println(Arrays.toString(words));
 }
 }
     
