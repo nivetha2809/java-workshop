@@ -1,4 +1,7 @@
-public class StringExample {
+
+
+
+public class Stringexample {
     public static void main(String[] args) {
         String FirstName = "Sree";
         String LastName = "Krishnan";
